@@ -67,7 +67,7 @@ const defaultProps = {
 const data: Tree[] = [
   {
     id: 1,
-    label: 'Level one 1',
+    label: '首页',
     children: [
       {
         id: 4,
